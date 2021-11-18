@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rayan-pasha
 - 👀 I’m interested in web devlopment 
-- 🌱 I’m currently learning the fundemtals of web development (Html, CSS, Javascript, Php)
+- 🌱 I’m currently learning the fundemantals of web development (Html, CSS, Javascript, Php, MySQL)
 - 💞️ I’m looking to collaborate on a pokedex art gallery
 - 📫 How to reach me ...
 
