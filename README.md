@@ -1,5 +1,5 @@
 -	👋 Hi, I’m @rayan-pasha
--	👀 I’m interested in web development, Machine Learning and, Artificial Intelligence
+-	👀 I’m interested in web development, Mobile App Development, Machine Learning and, Artificial Intelligence
 -	🌱 I’m currently working on full stack development (HTML, CSS, JavaScript, MySQL, ReactJS, NodeJS )
 
 <!---
