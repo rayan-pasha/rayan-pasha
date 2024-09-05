@@ -1,8 +1,12 @@
--	👋 Hi, I’m @rayan-pasha
--	👀 I’m interested in web development, Mobile App Development, Machine Learning and, Artificial Intelligence
--	🌱 I’m currently working on full stack development (HTML, CSS, JavaScript, MySQL, ReactJS, NodeJS )
+Hi there! 👋 I'm Rayan.
+I'm a recent Software Engineering graduate with a passion for:
 
-<!---
-rayan-pasha/rayan-pasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 Web Development: Building responsive and dynamic web applications using modern frameworks.
+📱 Mobile App Development: Creating intuitive and user-friendly mobile experiences.
+🤖 Artificial Intelligence & Machine Learning: Leveraging data to build intelligent systems that solve real-world problems.
+
+💻 Technologies & Tools:
+Languages: HTML, CSS, JavaScript, Python, Java, C++
+Frameworks: React, Node.js, Next.js, Flutter
+Databases: MySQL, SQLite, PostgreSQL, MongoDB
+Version Control: Git, GitHub
