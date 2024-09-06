@@ -7,7 +7,7 @@ I'm a recent **Software Engineering** graduate with a passion for:
 - 🤖 **Artificial Intelligence & Machine Learning**: Leveraging data to build intelligent systems that solve real-world problems.
 
 ### 💻 Technologies & Tools:
-- **Languages**: HTML, CSS, JavaScript, Python, Java, C++
-- **Frameworks**: React, Node.js, Next.js, Flutter
+- **Languages**: HTML, CSS, JavaScript, Python, Java, C++, C
+- **Frameworks**: React, Node.js, Next.js, Express.js, Flutter
 - **Databases**: MySQL, SQLite, PostgreSQL, MongoDB
 - **Version Control**: Git, GitHub
