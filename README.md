@@ -1,9 +1,9 @@
-# Hi there! 👋 I'm Rayan.
+# Hi there! 👋 I'm Rayan
 
-I'm a **Software Engineering** with a passion for:
+I'm a **Software Engineer** with a passion for:
 
 - 🌐 **Web Development**: Building responsive and dynamic web applications using modern frameworks.
-- 📱 **Mobile App Development**: Creating intuitive and user-friendly mobile experiences.
+- 📱 **Mobile App Development**: Creating useful and user-friendly mobile applications.
 - 🤖 **Artificial Intelligence & Machine Learning**: Leveraging data to build intelligent systems that solve real-world problems.
 
 ### 💻 Technologies & Tools:
