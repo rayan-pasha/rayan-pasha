@@ -10,4 +10,3 @@ I'm a **Software Engineer** with a passion for:
 - **Languages**: HTML, CSS, JavaScript, Python, Java, C++
 - **Frameworks**: React, Node.js, Next.js
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **Version Control**: Git, GitHub
